@@ -1,3 +1,1 @@
-# teapot.3d
-3d teapot
-
+editor.id.corrector.gui english and american 
